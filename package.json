@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webview",
+  "name": "react-native-webview-old",
   "description": "React Native WebView component for iOS, Android, and macOS",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -75,6 +75,6 @@
     "lib",
     "index.js",
     "index.d.ts",
-    "react-native-webview.podspec"
+    "react-native-webview-old.podspec"
   ]
 }
